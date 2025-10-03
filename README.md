@@ -54,7 +54,6 @@ Features: offline caching, favorites, notifications for reminders, and swipe-to-
 ---
 
 ## 🏆 Highlights  
-✔️ 2.5+ years experience in Android development  
 ✔️ Strong focus on **UI/UX, performance, and clean architecture**  
 ✔️ Experience with **automotive navigation systems & enterprise apps**  
 ✔️ Open-source contributor & Android community learner  
